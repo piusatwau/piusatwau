@@ -14,7 +14,7 @@ I am naturally creative
 
 My domain of expertise is medical device technologies. I have developed a handful of novel medical technologies
 
-I am open to roles as a Surgery, Director Innovation and Strategy, Backend development, Hardware programming, UI/UX Design,  and Clinical Research.
+I am open to roles in Surgery, Director Innovation and Strategy, Backend development, Hardware programming, UI/UX Design,  and Clinical Research.
 
 I am reachable on:
 - [Linkedin](https://www.linkedin.com/in/pius-atwau-m-d/)
