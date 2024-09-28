@@ -8,6 +8,7 @@ But my passions and joys are programming:
 - JavaScript - NextJs
 - C
 - R
+- Figma
 
 I am naturally creative
 
