@@ -1,14 +1,25 @@
 I am Pius
 
-My traditional training is medicine
+My traditional training is medicine, and global health innovation
 
-But my passions and joys are programming:
+I enjoy programming in:
 - Python - Django
 - C++ - embedded systems
-- JavaScript - NextJs
-- C
+- JavaScript - React, NextJs
+- Flutter
 - R
+
+I enjoy design in:
 - Figma
+- Inkscape
+- GIMP
+- Miro
+- Adalo
+- Adobe Suite
+- Blender
+- Unity
+- Unreal Engine
+- Canva
 
 I am naturally creative and visionary
 
@@ -16,7 +27,7 @@ My domain of expertise is global health innovation, and medicine.
 
 I am open to roles in Surgery, Medicine, Infectious diseases, Clinical research, Innovation and Strategy, 
 
-I don't mind contributing and doing fun projects in backend development, Data Science and machine learning, Hardware programming, and UI/UX Design.
+I don't mind contributing and doing backend fun projects, data Science and machine learning, hardware programming [arduino, raspberry pi], and UI/UX Design.
 
 I am reachable on:
 - [Linkedin](https://www.linkedin.com/in/pius-atwau-m-d/)
