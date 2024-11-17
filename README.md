@@ -10,11 +10,13 @@ But my passions and joys are programming:
 - R
 - Figma
 
-I am naturally creative
+I am naturally creative and visionary
 
-My domain of expertise is medical device technologies. I have developed a handful of novel medical technologies
+My domain of expertise is global health innovation, and medicine.
 
-I am open to roles in Surgery, Medicine, Infectious diseases, Clinical research, Director Innovation and Strategy, Backend development, Data Science and machine learning, Hardware programming, and UI/UX Design.
+I am open to roles in Surgery, Medicine, Infectious diseases, Clinical research, Innovation and Strategy, 
+
+I don't mind contributing and doing fun projects in backend development, Data Science and machine learning, Hardware programming, and UI/UX Design.
 
 I am reachable on:
 - [Linkedin](https://www.linkedin.com/in/pius-atwau-m-d/)
