@@ -8,6 +8,8 @@ I enjoy programming in:
 - JavaScript - React, NextJs
 - Flutter
 - R
+- SQL
+- Shell
 
 I enjoy design in:
 - Figma
