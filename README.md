@@ -5,7 +5,6 @@ My traditional training is medicine, and global health innovation
 I enjoy programming in:
 - Python - Django
 - C++ - embedded systems
-- JavaScript - React, NextJs
 - Flutter
 - R
 - SQL
