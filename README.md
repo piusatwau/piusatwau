@@ -2,7 +2,7 @@ I am Pius
 
 My traditional training is medicine, and global health innovation
 
-I enjoy programming in:
+I am a hobbyist programmer in:
 - Python - Django
 - C++ - embedded systems
 - Flutter
