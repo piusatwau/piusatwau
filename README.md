@@ -19,7 +19,6 @@ I enjoy design in:
 - Adobe Suite
 - Blender
 - Unity
-- Unreal Engine
 - Canva
 
 I am naturally creative and visionary
